@@ -24,16 +24,6 @@
     ├── migrations          //实时更新迁移数据库
     
     ├── static             //页面渲染
-    
-    │   ├── bootstrap
-
-    │   ├── css
-
-    │   ├── images
-
-    │   ├── jguery
-    
-    │   └── js              //邮箱验证计时
 
     ├──templates
     
