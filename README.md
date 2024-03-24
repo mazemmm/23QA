@@ -60,13 +60,6 @@
     └── models.py           // 发布问答后端功能实现
  
 # 使用说明
- ![images_1] (登录页面.png)
-
- ![images_1] (注册页面.png)
-
- ![images_1] (问答页面.png)
-
- ![images_1] (首页.png)
 
 
  
