@@ -51,7 +51,7 @@
  
 # 使用说明
 
-![image](h_page.png)
+![image](https://github.com/mazemmm/23QA/blob/master/h_page.png)
 
 ![image](login.png)
 
