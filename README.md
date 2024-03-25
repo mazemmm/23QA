@@ -53,6 +53,10 @@
 
 ![image](https://github.com/mazemmm/23QA/blob/master/h_page.png)
 
+<div align="center">
+    <img src="https://github.com/mazemmm/23QA/blob/master/h_page.png">
+</div>
+
 ![image](login.png)
 
 ![image](qa.png)
